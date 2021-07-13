@@ -8,7 +8,7 @@ function htmlEscape(htmlStr) {
 			case '"':
 				return '&quot;';
 			case '&':
-				return '&amp';
+				return '&amp;';
 		}
 	})
 }
