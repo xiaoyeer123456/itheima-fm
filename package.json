@@ -8,5 +8,6 @@
     "dateFormat",
     "escape"
   ],
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {}
 }
